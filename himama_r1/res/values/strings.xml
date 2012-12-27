@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ハイ！ママ_r1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="t_task">とうろくされた予定</string>
+    <string name="time">じかん</string>
+    <string name="change">へんこう</string>
+
+</resources>
